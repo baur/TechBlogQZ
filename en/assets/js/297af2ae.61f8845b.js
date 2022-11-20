@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkTechBlogQZ=self.webpackChunkTechBlogQZ||[]).push([[5510],{8525:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/TechBlogQZ/en/blog/tags/docusaurus","allTagsPath":"/TechBlogQZ/en/blog/tags","count":4}')}}]);
