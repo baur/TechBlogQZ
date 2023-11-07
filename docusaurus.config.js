@@ -68,12 +68,12 @@ const config = {
           src: 'img/TechBlogLogo.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Инструкции',
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Инструкция',
+          // },
           {
             type: "localeDropdown",
             position: "left",

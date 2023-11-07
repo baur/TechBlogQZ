@@ -14,5 +14,9 @@
   "item.label.Инструкции": {
     "message": "Инструкции",
     "description": "Navbar item with label Инструкции"
+  },
+  "item.label.Инструкция": {
+    "message": "Инструкция",
+    "description": "Navbar item with label Инструкция"
   }
 }
