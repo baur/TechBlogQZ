@@ -36,7 +36,7 @@ export default function Home() {
       description="My TechBlog Notes">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        {/* <HomepageFeatures /> */}
       </main>
     </Layout>
   );
